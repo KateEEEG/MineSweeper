@@ -1,0 +1,14 @@
+{
+  "name": "sapper",
+  "version": "1.0.0",
+  "description": "sap",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "KateYurut",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^23.1.2"
+  }
+}
